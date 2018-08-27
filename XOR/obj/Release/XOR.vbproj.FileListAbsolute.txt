@@ -1,0 +1,10 @@
+D:\Users\Peter\Desktop\XOR\XOR\bin\Release\XOR.exe
+D:\Users\Peter\Desktop\XOR\XOR\bin\Release\XOR.pdb
+D:\Users\Peter\Desktop\XOR\XOR\bin\Release\XOR.xml
+D:\Users\Peter\Desktop\XOR\XOR\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Peter\Desktop\XOR\XOR\obj\Release\XOR.Form1.resources
+D:\Users\Peter\Desktop\XOR\XOR\obj\Release\XOR.Resources.resources
+D:\Users\Peter\Desktop\XOR\XOR\obj\Release\XOR.vbproj.GenerateResource.Cache
+D:\Users\Peter\Desktop\XOR\XOR\obj\Release\XOR.exe
+D:\Users\Peter\Desktop\XOR\XOR\obj\Release\XOR.xml
+D:\Users\Peter\Desktop\XOR\XOR\obj\Release\XOR.pdb

@@ -1,0 +1,44 @@
+D:\Users\Peter\AppData\Local\Temporary Projects\XOR\bin\Debug\XOR.exe
+D:\Users\Peter\AppData\Local\Temporary Projects\XOR\bin\Debug\XOR.pdb
+D:\Users\Peter\AppData\Local\Temporary Projects\XOR\bin\Debug\XOR.xml
+D:\Users\Peter\AppData\Local\Temporary Projects\XOR\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Peter\AppData\Local\Temporary Projects\XOR\obj\Debug\XOR.Form1.resources
+D:\Users\Peter\AppData\Local\Temporary Projects\XOR\obj\Debug\XOR.Resources.resources
+D:\Users\Peter\AppData\Local\Temporary Projects\XOR\obj\Debug\XOR.vbproj.GenerateResource.Cache
+D:\Users\Peter\AppData\Local\Temporary Projects\XOR\obj\Debug\XOR.exe
+D:\Users\Peter\AppData\Local\Temporary Projects\XOR\obj\Debug\XOR.xml
+D:\Users\Peter\AppData\Local\Temporary Projects\XOR\obj\Debug\XOR.pdb
+D:\Users\Peter\Desktop\XOR\XOR\obj\Debug\XOR.exe
+D:\Users\Peter\Desktop\XOR\XOR\obj\Debug\XOR.xml
+D:\Users\Peter\Desktop\XOR\XOR\obj\Debug\XOR.pdb
+C:\Users\Allan\Desktop\Sources\XOR\XOR\obj\Debug\XOR.exe
+C:\Users\Allan\Desktop\Sources\XOR\XOR\obj\Debug\XOR.xml
+C:\Users\Allan\Desktop\Sources\XOR\XOR\obj\Debug\XOR.pdb
+C:\Users\Allan\Desktop\Sources\XOR\XOR\bin\Debug\XOR.exe
+C:\Users\Allan\Desktop\Sources\XOR\XOR\bin\Debug\XOR.pdb
+C:\Users\Allan\Desktop\Sources\XOR\XOR\bin\Debug\XOR.xml
+C:\Users\Allan\Desktop\Sources\XOR\XOR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Allan\Desktop\Sources\XOR\XOR\obj\Debug\XOR.Form1.resources
+C:\Users\Allan\Desktop\Sources\XOR\XOR\obj\Debug\XOR.Resources.resources
+C:\Users\Allan\Desktop\Sources\XOR\XOR\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Allan\Desktop\Sources\XOR\XOR\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Allan\Desktop\XOR Example\XOR\obj\Debug\XOR.exe
+C:\Users\Allan\Desktop\XOR Example\XOR\obj\Debug\XOR.xml
+C:\Users\Allan\Desktop\XOR Example\XOR\obj\Debug\XOR.pdb
+C:\Users\Allan\Desktop\XOR Example\XOR\bin\Debug\XOR.exe
+C:\Users\Allan\Desktop\XOR Example\XOR\bin\Debug\XOR.pdb
+C:\Users\Allan\Desktop\XOR Example\XOR\bin\Debug\XOR.xml
+C:\Users\Allan\Desktop\XOR Example\XOR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Allan\Desktop\XOR Example\XOR\obj\Debug\XOR.Form1.resources
+C:\Users\Allan\Desktop\XOR Example\XOR\obj\Debug\XOR.Resources.resources
+C:\Users\Allan\Desktop\XOR Example\XOR\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Allan\Desktop\XOR Example\XOR\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Project Pack [VB.NET] NEW - Xx rang3 di3\XOR Example - X\XOR\obj\Debug\XOR.exe
+E:\Project Pack [VB.NET] NEW - Xx rang3 di3\XOR Example - X\XOR\obj\Debug\XOR.xml
+E:\Project Pack [VB.NET] NEW - Xx rang3 di3\XOR Example - X\XOR\obj\Debug\XOR.pdb
+E:\Project Pack [VB.NET] NEW - Xx rang3 di3\XOR Example - X\XOR\bin\Debug\XOR.exe
+E:\Project Pack [VB.NET] NEW - Xx rang3 di3\XOR Example - X\XOR\bin\Debug\XOR.pdb
+E:\Project Pack [VB.NET] NEW - Xx rang3 di3\XOR Example - X\XOR\bin\Debug\XOR.xml
+E:\Project Pack [VB.NET] NEW - Xx rang3 di3\XOR Example - X\XOR\obj\Debug\XOR.Form1.resources
+E:\Project Pack [VB.NET] NEW - Xx rang3 di3\XOR Example - X\XOR\obj\Debug\XOR.Resources.resources
+E:\Project Pack [VB.NET] NEW - Xx rang3 di3\XOR Example - X\XOR\obj\Debug\XOR.vbproj.GenerateResource.Cache
